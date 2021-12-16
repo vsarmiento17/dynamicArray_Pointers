@@ -1,2 +1,2 @@
 # dynamicArray_Pointers
-Proyect that include a dynamic Arrari whit pointers in Spanish.
+A project that includes a dynamic Array with pointers in Spanish.
